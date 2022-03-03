@@ -1,0 +1,12 @@
+.toybox-container {
+    background-color: aqua;
+    height: 100%;
+    padding: 10px;
+    border-radius: 17px;
+}
+
+ul {
+    text-align: center;
+    list-style: none;
+    padding: 2px;
+}
